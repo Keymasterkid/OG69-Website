@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>https://og69.com/</loc>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://og69.com/#about</loc>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://og69.com/#dev</loc>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://og69.com/#labs</loc>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://og69.com/#testing</loc>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://og69.com/#pgp</loc>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://og69.com/#contact</loc>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://og69.com/trademark.txt</loc>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://og69.com/trademark.txt.asc</loc>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://og69.com/LICENSE.md</loc>
+        <priority>0.6</priority>
+    </url>
+
+</urlset>

@@ -1,0 +1,5 @@
+# robots.txt for OG69.com
+User-agent: *
+Disallow:
+
+Sitemap: https://og69.com/sitemap.xml
