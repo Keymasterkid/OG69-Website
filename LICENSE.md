@@ -1,7 +1,7 @@
 Proprietary License for OG69.com
 --------------------------------
 
-Copyright (c) 2025 OG69. All rights reserved.
+Copyright (c) 2026 OG69. All rights reserved.
 
 OG69™, OG69 Dev™, OG69 Labs™, and OG69 Testing™ are unregistered trademarks of OG69.
 
